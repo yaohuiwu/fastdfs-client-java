@@ -6,11 +6,11 @@
 * Please visit the FastDFS Home Page http://www.csource.org/ for more detail.
 **/
 
-package org.csource.fastdfs.test;
+package com.csource;
 
 import java.io.*;
 import java.net.*;
-import java.util.*;
+
 import org.csource.common.*;
 import org.csource.fastdfs.*;
 
